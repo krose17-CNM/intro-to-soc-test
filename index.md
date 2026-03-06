@@ -8,7 +8,7 @@ header-subtitle: a class project template
 header-position: 35% center
 ---
 
-# Your Class Project Name Goes Here
+# Social Norms Project
 
 This is your class project site, built with the [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. Your course topic and your students' writing go here.
 
